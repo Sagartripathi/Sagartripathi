@@ -42,8 +42,13 @@
 
 ### 📫 Let's Connect!
 
-- 📬 Email: [sagartripathi@takeo.ai](mailto:sagartripathi@takeo.ai)  
-- 💼 LinkedIn: [linkedin.com/in/sagartripathi](https://linkedin.com/in/sagartripathi)  
+- 📬 Email: [tripathisagar1997(at)gmail(dot)com](mailto:tripathisagar1997@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/sagartripathi]( https://www.linkedin.com/in/sagar-tripathi-full-stack-dev/ - )
+
+
+
+
+
 - 🌐 Portfolio: *Coming soon*
 
 ---
