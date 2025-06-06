@@ -43,12 +43,7 @@
 ### 📫 Let's Connect!
 
 - 📬 Email: [tripathisagar1997(at)gmail(dot)com](mailto:tripathisagar1997@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sagartripathi]( https://www.linkedin.com/in/sagar-tripathi-full-stack-dev/ - )
-
-
-
-
-
+- 💼 LinkedIn: ( https://www.linkedin.com/in/sagar-tripathi-full-stack-dev/ - )
 - 🌐 Portfolio: *Coming soon*
 
 ---
